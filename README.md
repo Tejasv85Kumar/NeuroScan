@@ -1,8 +1,8 @@
-## NeuroScan: Brain Tumor Classification using CNN ##
-# 1. Project Overview #
+# NeuroScan: Brain Tumor Classification using CNN #
+## 1. Project Overview ##
 The primary objective of this project is to develop a deep learning model capable of identifying the presence of a brain tumor from Magnetic Resonance Imaging (MRI) scans. By leveraging Convolutional Neural Networks (CNN), the model automates the classification process into two categories: Tumor (Yes) and No Tumor (No).
 
-# 2. Dataset Description 3
+## 2. Dataset Description ##
 The model is trained on the Brain MRI Images for Brain Tumor Detection dataset.
 
 Class 0 (No): MRI scans showing no signs of a brain tumor.
